@@ -1,5 +1,3 @@
-de in Visual Studio Code.
-
 ## Folder Structure
 
 The workspace contains two folders by default, where:
